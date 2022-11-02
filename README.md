@@ -1,4 +1,4 @@
-# mapping_hk_colonial_photos
+# Mapping Colonial Hong Kong Photos
 Google Map that display photos taken from colonial period of Hong Kong
 
 Display the HTML with this link:
